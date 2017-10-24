@@ -1,6 +1,7 @@
 .page
 {
     min-height:100vh;
+    overflow:hidden;
 }
 
 .page#first_page
@@ -20,8 +21,8 @@
     font-size:5em;
 }
 
-.logo 
-{
-    padding:15vh 0;
-    width:100%;
+.logo {
+    padding: 12vh 0;
+    width: auto;
+    height: 100vh;
 }
