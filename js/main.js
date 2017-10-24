@@ -21,7 +21,7 @@ function adjustImage() {
     //$(".logo").removeClass("img-horizontal");
     //$(".logo").removeClass("img-vertical");
 
-    if ($(window).width() > 650) {
+    if ($(window).width() > 620) {
         $(".logo").addClass("img-horizontal");
     }
     else {
