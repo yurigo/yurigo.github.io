@@ -1,11 +1,27 @@
-#first_page
+.page
 {
-    height:100vh;
+    min-height:100vh;
+}
+
+.page#first_page
+{
+}
+
+.page#second_page
+{
+    background:#3392b2;
+    color:White;
 }
             
-#dy_yb {
-    padding-top: 40vh;
+.dy_yb {
+    padding: 40vh 0 40vh 0;
     text-align:center;
     font-family: 'Open Sans', sans-serif;
     font-size:5em;
+}
+
+.logo 
+{
+    padding:15vh 0;
+    width:100%;
 }
