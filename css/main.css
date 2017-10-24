@@ -23,6 +23,12 @@
 
 .logo {
     padding: 12vh 0;
-    width: auto;
+    width:100%;
+    height: auto;
+}
+
+.logo.img-horizontal {
+    padding:12vh 0;
     height: 100vh;
+    width: auto;
 }
